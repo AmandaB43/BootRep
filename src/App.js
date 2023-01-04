@@ -10,6 +10,7 @@ function App() {
       <TopBar />
       <Background />
       <StoreListings />
+      <p>What am I missing?</p>
     </div>
   );
 }
